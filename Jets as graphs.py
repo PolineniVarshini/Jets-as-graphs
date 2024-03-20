@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 
 # Step 1: Convert Images to Point Clouds
 # Load the image dataset and convert it into point clouds
-# For each image, extract non-zero pixels and represent them as points in 3D space
+# extract non-zero pixels and represent them as points in 3D space
 
 # Step 2: Cast Point Clouds into Graph Representation
 # Define a method to convert point clouds into graph representations
